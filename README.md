@@ -36,8 +36,11 @@ SELECT AVG(Value) FROM DETAILS;
 ```
 ## OUTPUT:-
 ![git](./op1.png)
+
 ![git](./op2.png)
+
 ![git](./op3.png)
+
 ![git](./op4.png)
 ## RESULT:-
 A sql query to perform Aggregate function in SQL has been executed.
