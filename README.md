@@ -1,4 +1,4 @@
-# Ex-07-Aggregate-function-in-SQL
+## Ex-20 Aggregate function in SQL
 ## AIM:-
 To write a sql query to perform Aggregate function in SQL.
 
@@ -16,6 +16,8 @@ Insert Value to the table DETAILS.
 Perform Aggregate functions like SUM(),COUNT(),AVG().
 
 ## PROGRAM:-
+#### Developed By : Sarankumar J
+#### Register Number : 212221230087
 ```sql
 CREATE DATABASE AGGREGATE_FUNCTION;
 USE AGGREGATE_FUNCTION;
