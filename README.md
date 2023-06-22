@@ -1,4 +1,4 @@
-## Ex-20 Aggregate function in SQL
+## Ex-07 Aggregate function in SQL
 ## AIM:-
 To write a sql query to perform Aggregate function in SQL.
 
